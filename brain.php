@@ -634,7 +634,293 @@
 				);
 				$title = 'Lowered F Tuning';
 				$desc = '';
-				break;    
+				break;  
+                
+                
+                
+            case 'modal-asus2':
+                $notes = array(
+                    array('E', 'https://s3.amazonaws.com/tuning-website/notes/0-e.ogg', 'http://s3.amazonaws.com/tuning-website/notes/0-e.mp3'),
+                    array('A', 'https://s3.amazonaws.com/tuning-website/notes/1-a.ogg', 'http://s3.amazonaws.com/tuning-website/notes/1-a.mp3'),
+                    array('B', 'https://s3.amazonaws.com/tuning-website/notes/1-b.ogg', 'http://s3.amazonaws.com/tuning-website/notes/1-b.mp3'),
+    				array('E', 'https://s3.amazonaws.com/tuning-website/notes/1-e.ogg', 'http://s3.amazonaws.com/tuning-website/notes/1-e.mp3'),
+					array('A', 'https://s3.amazonaws.com/tuning-website/notes/2-a.ogg', 'http://s3.amazonaws.com/tuning-website/notes/2-a.mp3'),
+					array('E', 'https://s3.amazonaws.com/tuning-website/notes/2-e.ogg', 'http://s3.amazonaws.com/tuning-website/notes/2-e.mp3')
+				);
+				$title = 'Modal Asus&#50; Tuning';
+				$desc = '';
+				break;   
+                
+                
+                
+            case 'modal-asus4':
+                $notes = array(
+                    array('E', 'https://s3.amazonaws.com/tuning-website/notes/0-e.ogg', 'http://s3.amazonaws.com/tuning-website/notes/0-e.mp3'),
+                    array('A', 'https://s3.amazonaws.com/tuning-website/notes/1-a.ogg', 'http://s3.amazonaws.com/tuning-website/notes/1-a.mp3'),
+                    array('D', 'https://s3.amazonaws.com/tuning-website/notes/1-d.ogg', 'http://s3.amazonaws.com/tuning-website/notes/1-d.mp3'),
+        			array('E', 'https://s3.amazonaws.com/tuning-website/notes/1-e.ogg', 'http://s3.amazonaws.com/tuning-website/notes/1-e.mp3'),
+					array('A', 'https://s3.amazonaws.com/tuning-website/notes/2-a.ogg', 'http://s3.amazonaws.com/tuning-website/notes/2-a.mp3'),
+					array('E', 'https://s3.amazonaws.com/tuning-website/notes/2-e.ogg', 'http://s3.amazonaws.com/tuning-website/notes/2-e.mp3')
+				);
+				$title = 'Modal Asus&#52; Tuning';
+				$desc = '';
+				break; 
+                
+                
+                
+            case 'modal-bsus4':
+                $notes = array(
+                    array('B', 'https://s3.amazonaws.com/tuning-website/notes/0-b.ogg', 'http://s3.amazonaws.com/tuning-website/notes/0-b.mp3'),
+                    array('F#', 'https://s3.amazonaws.com/tuning-website/notes/0-fsharp.ogg', 'http://s3.amazonaws.com/tuning-website/notes/0-fsharp.mp3'),
+                    array('B', 'https://s3.amazonaws.com/tuning-website/notes/1-b.ogg', 'http://s3.amazonaws.com/tuning-website/notes/1-b.mp3'),
+            		array('E', 'https://s3.amazonaws.com/tuning-website/notes/1-e.ogg', 'http://s3.amazonaws.com/tuning-website/notes/1-e.mp3'),
+					array('F#', 'https://s3.amazonaws.com/tuning-website/notes/1-fsharp.ogg', 'http://s3.amazonaws.com/tuning-website/notes/1-fsharp.mp3'),
+					array('B', 'https://s3.amazonaws.com/tuning-website/notes/2-b.ogg', 'http://s3.amazonaws.com/tuning-website/notes/2-b.mp3')
+				);
+				$title = 'Modal Bsus&#52; Tuning';
+				$desc = '';
+				break;
+                
+                
+                
+            case 'modal-c6':
+                $notes = array(
+                    array('C', 'https://s3.amazonaws.com/tuning-website/notes/0-c.ogg', 'http://s3.amazonaws.com/tuning-website/notes/0-c.mp3'),
+                    array('A', 'https://s3.amazonaws.com/tuning-website/notes/1-a.ogg', 'http://s3.amazonaws.com/tuning-website/notes/1-a.mp3'),
+                    array('C', 'https://s3.amazonaws.com/tuning-website/notes/1-c.ogg', 'http://s3.amazonaws.com/tuning-website/notes/1-c.mp3'),
+                	array('G', 'https://s3.amazonaws.com/tuning-website/notes/1-g.ogg', 'http://s3.amazonaws.com/tuning-website/notes/1-g.mp3'),
+					array('C', 'https://s3.amazonaws.com/tuning-website/notes/2-c.ogg', 'http://s3.amazonaws.com/tuning-website/notes/2-c.mp3'),
+					array('E', 'https://s3.amazonaws.com/tuning-website/notes/2-e.ogg', 'http://s3.amazonaws.com/tuning-website/notes/2-e.mp3')
+				);
+				$title = 'Modal C&#54; Tuning';
+				$desc = '';
+				break;
+                
+                
+                
+            case 'modal-open-page':
+                $notes = array(
+                    array('D', 'https://s3.amazonaws.com/tuning-website/notes/0-d.ogg', 'http://s3.amazonaws.com/tuning-website/notes/0-d.mp3'),
+                    array('G', 'https://s3.amazonaws.com/tuning-website/notes/0-g.ogg', 'http://s3.amazonaws.com/tuning-website/notes/0-g.mp3'),
+                    array('C', 'https://s3.amazonaws.com/tuning-website/notes/1-c.ogg', 'http://s3.amazonaws.com/tuning-website/notes/1-c.mp3'),
+                    array('G', 'https://s3.amazonaws.com/tuning-website/notes/1-g.ogg', 'http://s3.amazonaws.com/tuning-website/notes/1-g.mp3'),
+					array('C', 'https://s3.amazonaws.com/tuning-website/notes/2-c.ogg', 'http://s3.amazonaws.com/tuning-website/notes/2-c.mp3'),
+					array('D', 'https://s3.amazonaws.com/tuning-website/notes/2-d.ogg', 'http://s3.amazonaws.com/tuning-website/notes/2-d.mp3')
+				);
+				$title = 'Modal Open Page Tuning';
+				$desc = '';
+				break; 
+                
+                
+                
+            case 'modal-csus2':
+                $notes = array(
+                    array('C', 'https://s3.amazonaws.com/tuning-website/notes/0-c.ogg', 'http://s3.amazonaws.com/tuning-website/notes/0-c.mp3'),
+                    array('G', 'https://s3.amazonaws.com/tuning-website/notes/0-g.ogg', 'http://s3.amazonaws.com/tuning-website/notes/0-g.mp3'),
+                    array('C', 'https://s3.amazonaws.com/tuning-website/notes/1-c.ogg', 'http://s3.amazonaws.com/tuning-website/notes/1-c.mp3'),
+                    array('G', 'https://s3.amazonaws.com/tuning-website/notes/1-g.ogg', 'http://s3.amazonaws.com/tuning-website/notes/1-g.mp3'),
+    				array('C', 'https://s3.amazonaws.com/tuning-website/notes/2-c.ogg', 'http://s3.amazonaws.com/tuning-website/notes/2-c.mp3'),
+					array('D', 'https://s3.amazonaws.com/tuning-website/notes/2-d.ogg', 'http://s3.amazonaws.com/tuning-website/notes/2-d.mp3')
+				);
+				$title = 'Modal Csus&#50 Tuning';
+				$desc = '';
+				break; 
+                
+                
+                
+            case 'modal-csus4':
+                $notes = array(
+                    array('C', 'https://s3.amazonaws.com/tuning-website/notes/0-c.ogg', 'http://s3.amazonaws.com/tuning-website/notes/0-c.mp3'),
+                    array('G', 'https://s3.amazonaws.com/tuning-website/notes/0-g.ogg', 'http://s3.amazonaws.com/tuning-website/notes/0-g.mp3'),
+                    array('C', 'https://s3.amazonaws.com/tuning-website/notes/1-c.ogg', 'http://s3.amazonaws.com/tuning-website/notes/1-c.mp3'),
+                    array('G', 'https://s3.amazonaws.com/tuning-website/notes/1-g.ogg', 'http://s3.amazonaws.com/tuning-website/notes/1-g.mp3'),
+        			array('C', 'https://s3.amazonaws.com/tuning-website/notes/2-c.ogg', 'http://s3.amazonaws.com/tuning-website/notes/2-c.mp3'),
+					array('F', 'https://s3.amazonaws.com/tuning-website/notes/2-f.ogg', 'http://s3.amazonaws.com/tuning-website/notes/2-f.mp3')
+				);
+				$title = 'Modal Csus&#52 Tuning';
+				$desc = '';
+				break;
+                
+                
+                
+             case 'modal-c15':
+                $notes = array(
+                    array('C', 'https://s3.amazonaws.com/tuning-website/notes/0-c.ogg', 'http://s3.amazonaws.com/tuning-website/notes/0-c.mp3'),
+                    array('G', 'https://s3.amazonaws.com/tuning-website/notes/0-g.ogg', 'http://s3.amazonaws.com/tuning-website/notes/0-g.mp3'),
+                    array('D', 'https://s3.amazonaws.com/tuning-website/notes/1-d.ogg', 'http://s3.amazonaws.com/tuning-website/notes/1-d.mp3'),
+                    array('G', 'https://s3.amazonaws.com/tuning-website/notes/1-g.ogg', 'http://s3.amazonaws.com/tuning-website/notes/1-g.mp3'),
+            		array('C', 'https://s3.amazonaws.com/tuning-website/notes/2-c.ogg', 'http://s3.amazonaws.com/tuning-website/notes/2-c.mp3'),
+					array('D', 'https://s3.amazonaws.com/tuning-website/notes/2-d.ogg', 'http://s3.amazonaws.com/tuning-website/notes/2-d.mp3')
+				);
+				$title = 'Modal C&#49&#53 Tuning';
+				$desc = '';
+				break;
+                
+                
+                
+            case 'modal-low-c':
+                $notes = array(
+                    array('C', 'https://s3.amazonaws.com/tuning-website/notes/0-c.ogg', 'http://s3.amazonaws.com/tuning-website/notes/0-c.mp3'),
+                    array('G', 'https://s3.amazonaws.com/tuning-website/notes/0-g.ogg', 'http://s3.amazonaws.com/tuning-website/notes/0-g.mp3'),
+                    array('D', 'https://s3.amazonaws.com/tuning-website/notes/1-d.ogg', 'http://s3.amazonaws.com/tuning-website/notes/1-d.mp3'),
+                    array('G', 'https://s3.amazonaws.com/tuning-website/notes/1-g.ogg', 'http://s3.amazonaws.com/tuning-website/notes/1-g.mp3'),
+                	array('A', 'https://s3.amazonaws.com/tuning-website/notes/2-a.ogg', 'http://s3.amazonaws.com/tuning-website/notes/2-a.mp3'),
+					array('D', 'https://s3.amazonaws.com/tuning-website/notes/2-d.ogg', 'http://s3.amazonaws.com/tuning-website/notes/2-d.mp3')
+				);
+				$title = 'Modal Low C Tuning';
+				$desc = '';
+				break;
+                
+                
+                
+            
+            case 'modal-dsus4':
+                $notes = array(
+                    array('D', 'https://s3.amazonaws.com/tuning-website/notes/0-d.ogg', 'http://s3.amazonaws.com/tuning-website/notes/0-d.mp3'),
+                    array('A', 'https://s3.amazonaws.com/tuning-website/notes/1-a.ogg', 'http://s3.amazonaws.com/tuning-website/notes/1-a.mp3'),
+                    array('D', 'https://s3.amazonaws.com/tuning-website/notes/1-d.ogg', 'http://s3.amazonaws.com/tuning-website/notes/1-d.mp3'),
+                    array('G', 'https://s3.amazonaws.com/tuning-website/notes/1-g.ogg', 'http://s3.amazonaws.com/tuning-website/notes/1-g.mp3'),
+                    array('A', 'https://s3.amazonaws.com/tuning-website/notes/2-a.ogg', 'http://s3.amazonaws.com/tuning-website/notes/2-a.mp3'),
+					array('D', 'https://s3.amazonaws.com/tuning-website/notes/2-d.ogg', 'http://s3.amazonaws.com/tuning-website/notes/2-d.mp3')
+				);
+				$title = 'Modal Dsus&#52 Tuning';
+				$desc = '';
+				break; 
+                
+                
+                
+            case 'modal-esus4':
+                $notes = array(
+                    array('E', 'https://s3.amazonaws.com/tuning-website/notes/0-e.ogg', 'http://s3.amazonaws.com/tuning-website/notes/0-e.mp3'),
+                    array('B', 'https://s3.amazonaws.com/tuning-website/notes/1-b.ogg', 'http://s3.amazonaws.com/tuning-website/notes/1-b.mp3'),
+                    array('E', 'https://s3.amazonaws.com/tuning-website/notes/1-e.ogg', 'http://s3.amazonaws.com/tuning-website/notes/1-e.mp3'),
+                    array('A', 'https://s3.amazonaws.com/tuning-website/notes/2-a.ogg', 'http://s3.amazonaws.com/tuning-website/notes/2-a.mp3'),
+                    array('B', 'https://s3.amazonaws.com/tuning-website/notes/2-b.ogg', 'http://s3.amazonaws.com/tuning-website/notes/2-b.mp3'),
+    				array('E', 'https://s3.amazonaws.com/tuning-website/notes/2-e.ogg', 'http://s3.amazonaws.com/tuning-website/notes/2-e.mp3')
+				);
+				$title = 'Modal Esus&#52 Tuning';
+				$desc = '';
+				break;
+                
+                
+                
+            case 'modal-g6':
+                $notes = array(
+                    array('D', 'https://s3.amazonaws.com/tuning-website/notes/0-d.ogg', 'http://s3.amazonaws.com/tuning-website/notes/0-d.mp3'),
+                    array('G', 'https://s3.amazonaws.com/tuning-website/notes/0-g.ogg', 'http://s3.amazonaws.com/tuning-website/notes/0-g.mp3'),
+                    array('D', 'https://s3.amazonaws.com/tuning-website/notes/1-d.ogg', 'http://s3.amazonaws.com/tuning-website/notes/1-d.mp3'),
+                    array('G', 'https://s3.amazonaws.com/tuning-website/notes/1-g.ogg', 'http://s3.amazonaws.com/tuning-website/notes/1-g.mp3'),
+                    array('B', 'https://s3.amazonaws.com/tuning-website/notes/2-b.ogg', 'http://s3.amazonaws.com/tuning-website/notes/2-b.mp3'),
+        			array('E', 'https://s3.amazonaws.com/tuning-website/notes/2-e.ogg', 'http://s3.amazonaws.com/tuning-website/notes/2-e.mp3')
+				);
+				$title = 'Modal G&#54 Tuning';
+				$desc = '';
+				break; 
+                
+                
+                
+            case 'modal-gsus2':
+                $notes = array(
+                    array('D', 'https://s3.amazonaws.com/tuning-website/notes/0-d.ogg', 'http://s3.amazonaws.com/tuning-website/notes/0-d.mp3'),
+                    array('G', 'https://s3.amazonaws.com/tuning-website/notes/0-g.ogg', 'http://s3.amazonaws.com/tuning-website/notes/0-g.mp3'),
+                    array('D', 'https://s3.amazonaws.com/tuning-website/notes/1-d.ogg', 'http://s3.amazonaws.com/tuning-website/notes/1-d.mp3'),
+                    array('G', 'https://s3.amazonaws.com/tuning-website/notes/1-g.ogg', 'http://s3.amazonaws.com/tuning-website/notes/1-g.mp3'),
+                    array('A', 'https://s3.amazonaws.com/tuning-website/notes/2-a.ogg', 'http://s3.amazonaws.com/tuning-website/notes/2-a.mp3'),
+            		array('D', 'https://s3.amazonaws.com/tuning-website/notes/2-d.ogg', 'http://s3.amazonaws.com/tuning-website/notes/2-d.mp3')
+				);
+				$title = 'Modal Gsus&#50 Tuning';
+				$desc = '';
+				break;   
+                
+                
+                
+            case 'modal-gsus4':
+                $notes = array(
+                    array('D', 'https://s3.amazonaws.com/tuning-website/notes/0-d.ogg', 'http://s3.amazonaws.com/tuning-website/notes/0-d.mp3'),
+                    array('G', 'https://s3.amazonaws.com/tuning-website/notes/0-g.ogg', 'http://s3.amazonaws.com/tuning-website/notes/0-g.mp3'),
+                    array('D', 'https://s3.amazonaws.com/tuning-website/notes/1-d.ogg', 'http://s3.amazonaws.com/tuning-website/notes/1-d.mp3'),
+                    array('G', 'https://s3.amazonaws.com/tuning-website/notes/1-g.ogg', 'http://s3.amazonaws.com/tuning-website/notes/1-g.mp3'),
+                    array('C', 'https://s3.amazonaws.com/tuning-website/notes/2-c.ogg', 'http://s3.amazonaws.com/tuning-website/notes/2-c.mp3'),
+                	array('D', 'https://s3.amazonaws.com/tuning-website/notes/2-d.ogg', 'http://s3.amazonaws.com/tuning-website/notes/2-d.mp3')
+				);
+				$title = 'Modal Gsus&#52 Tuning';
+				$desc = '';
+				break; 
+                
+                
+                
+            case 'modal-e-modal':
+                $notes = array(
+                    array('E', 'https://s3.amazonaws.com/tuning-website/notes/0-e.ogg', 'http://s3.amazonaws.com/tuning-website/notes/0-e.mp3'),
+                    array('B', 'https://s3.amazonaws.com/tuning-website/notes/1-b.ogg', 'http://s3.amazonaws.com/tuning-website/notes/1-b.mp3'),
+                    array('E', 'https://s3.amazonaws.com/tuning-website/notes/1-e.ogg', 'http://s3.amazonaws.com/tuning-website/notes/1-e.mp3'),
+                    array('E', 'https://s3.amazonaws.com/tuning-website/notes/1-e.ogg', 'http://s3.amazonaws.com/tuning-website/notes/1-e.mp3'),
+                    array('B', 'https://s3.amazonaws.com/tuning-website/notes/2-b.ogg', 'http://s3.amazonaws.com/tuning-website/notes/2-b.mp3'),
+                    array('E', 'https://s3.amazonaws.com/tuning-website/notes/2-e.ogg', 'http://s3.amazonaws.com/tuning-website/notes/2-e.mp3')
+				);
+				$title = 'E Modal Tuning';
+				$desc = '';
+				break;   
+                
+                
+                
+            case 'modal-g-modal':
+                $notes = array(
+                    array('G', 'https://s3.amazonaws.com/tuning-website/notes/0-g.ogg', 'http://s3.amazonaws.com/tuning-website/notes/0-g.mp3'),
+                    array('G', 'https://s3.amazonaws.com/tuning-website/notes/0-g.ogg', 'http://s3.amazonaws.com/tuning-website/notes/0-g.mp3'),
+                    array('D', 'https://s3.amazonaws.com/tuning-website/notes/1-d.ogg', 'http://s3.amazonaws.com/tuning-website/notes/1-d.mp3'),
+                    array('G', 'https://s3.amazonaws.com/tuning-website/notes/1-g.ogg', 'http://s3.amazonaws.com/tuning-website/notes/1-g.mp3'),
+                    array('B', 'https://s3.amazonaws.com/tuning-website/notes/2-b.ogg', 'http://s3.amazonaws.com/tuning-website/notes/2-b.mp3'),
+                    array('D', 'https://s3.amazonaws.com/tuning-website/notes/2-d.ogg', 'http://s3.amazonaws.com/tuning-website/notes/2-d.mp3')
+    			);
+				$title = 'G Modal Tuning';
+				$desc = '';
+				break;       
+                
+                
+                
+            case 'modal-b-modal':
+                $notes = array(
+                    array('B', 'https://s3.amazonaws.com/tuning-website/notes/0-b.ogg', 'http://s3.amazonaws.com/tuning-website/notes/0-b.mp3'),
+                    array('F#', 'https://s3.amazonaws.com/tuning-website/notes/0-fsharp.ogg', 'http://s3.amazonaws.com/tuning-website/notes/0-fsharp.mp3'),
+                    array('C#', 'https://s3.amazonaws.com/tuning-website/notes/1-csharp.ogg', 'http://s3.amazonaws.com/tuning-website/notes/1-csharp.mp3'),
+                    array('F#', 'https://s3.amazonaws.com/tuning-website/notes/1-fsharp.ogg', 'http://s3.amazonaws.com/tuning-website/notes/1-fsharp.mp3'),
+                    array('B', 'https://s3.amazonaws.com/tuning-website/notes/2-b.ogg', 'http://s3.amazonaws.com/tuning-website/notes/2-b.mp3'),
+                    array('D#', 'https://s3.amazonaws.com/tuning-website/notes/2-dsharp.ogg', 'http://s3.amazonaws.com/tuning-website/notes/2-dsharp.mp3')
+    			);
+				$title = 'B Modal Tuning';
+				$desc = '';
+				break;  
+                
+                
+                
+            case 'modal-e-modal':
+                $notes = array(
+                    array('E', 'https://s3.amazonaws.com/tuning-website/notes/0-e.ogg', 'http://s3.amazonaws.com/tuning-website/notes/0-e.mp3'),
+                    array('B', 'https://s3.amazonaws.com/tuning-website/notes/1-b.ogg', 'http://s3.amazonaws.com/tuning-website/notes/1-b.mp3'),
+                    array('E', 'https://s3.amazonaws.com/tuning-website/notes/1-e.ogg', 'http://s3.amazonaws.com/tuning-website/notes/1-e.mp3'),
+                    array('E', 'https://s3.amazonaws.com/tuning-website/notes/1-e.ogg', 'http://s3.amazonaws.com/tuning-website/notes/1-e.mp3'),
+                    array('B', 'https://s3.amazonaws.com/tuning-website/notes/2-b.ogg', 'http://s3.amazonaws.com/tuning-website/notes/2-b.mp3'),
+                    array('E', 'https://s3.amazonaws.com/tuning-website/notes/2-e.ogg', 'http://s3.amazonaws.com/tuning-website/notes/2-e.mp3')
+    			);
+				$title = 'E Modal Tuning';
+				$desc = '';
+				break;   
+                
+                
+                
+            case 'modal-asharp-modal':
+                $notes = array(
+                    array('A#', 'https://s3.amazonaws.com/tuning-website/notes/0-asharp.ogg', 'http://s3.amazonaws.com/tuning-website/notes/0-asharp.mp3'),
+                    array('F', 'https://s3.amazonaws.com/tuning-website/notes/0-f.ogg', 'http://s3.amazonaws.com/tuning-website/notes/0-f.mp3'),
+                    array('A#', 'https://s3.amazonaws.com/tuning-website/notes/1-asharp.ogg', 'http://s3.amazonaws.com/tuning-website/notes/1-asharp.mp3'),
+                    array('D#', 'https://s3.amazonaws.com/tuning-website/notes/1-dsharp.ogg', 'http://s3.amazonaws.com/tuning-website/notes/1-dsharp.mp3'),
+                    array('G', 'https://s3.amazonaws.com/tuning-website/notes/1-g.ogg', 'http://s3.amazonaws.com/tuning-website/notes/1-g.mp3'),
+                    array('A#', 'https://s3.amazonaws.com/tuning-website/notes/2-asharp.ogg', 'http://s3.amazonaws.com/tuning-website/notes/2-asharp.mp3')
+    			);
+				$title = 'A# Modal Tuning';
+				$desc = '';
+				break;       
 			default:
 				$notes = array(
 					array('E', 'https://s3.amazonaws.com/tuning-website/notes/0-e.ogg', 'http://s3.amazonaws.com/tuning-website/notes/0-e.mp3'),

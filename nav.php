@@ -92,24 +92,24 @@
             <li class="dropdown">
                <a href="#" data-toggle="dropdown" class="dropdown-toggle lblue">Modal <b class="caret"></b></a>
                <ul class="dropdown-menu">
-                  <li><a href="modal/asus2.html">Asus2</a></li>
-                  <li><a href="modal/asus4.html">Asus4</a></li>
-                  <li><a href="modal/bsus4.html">Bsus4</a></li>
-                  <li><a href="modal/c6.html">C6</a></li>
-                  <li><a href="modal/open-page.html">Open Page</a></li>
-                  <li><a href="modal/csus2.html">Csus2</a></li>
-                  <li><a href="modal/csus4.html">Csus4</a></li>
-                  <li><a href="modal/c15.html">C15</a></li>
-                  <li><a href="modal/low-c.html">Low C</a></li>
-                  <li><a href="modal/dsus4.html">Dsus4</a></li>
-                  <li><a href="modal/esus4.html">Esus4</a></li>
-                  <li><a href="modal/g6.html">G6</a></li>
-                  <li><a href="modal/gsus2.html">Gsus2</a></li>
-                  <li><a href="modal/gsus4.html">Gsus4</a></li>
-                  <li><a href="modal/e-modal.html">E Modal</a></li>
-                  <li><a href="modal/g-modal.html">G Modal</a></li>
-                  <li><a href="modal/b-modal.html">B Modal</a></li>
-                  <li><a href="modal/asharp-modal.html">A# Modal</a></li>
+                  <li><a href="/?t=modal-asus2">Asus2</a></li>
+                  <li><a href="/?t=modal-asus4">Asus4</a></li>
+                  <li><a href="/?t=modal-bsus4">Bsus4</a></li>
+                  <li><a href="/?t=modal-c6">C6</a></li>
+                  <li><a href="/?t=modal-open-page">Open Page</a></li>
+                  <li><a href="/?t=modal-csus2">Csus2</a></li>
+                  <li><a href="/?t=modal-csus4">Csus4</a></li>
+                  <li><a href="/?t=modal-c15">C15</a></li>
+                  <li><a href="/?t=modal-low-c">Low C</a></li>
+                  <li><a href="/?t=modal-dsus4">Dsus4</a></li>
+                  <li><a href="/?t=modal-esus4">Esus4</a></li>
+                  <li><a href="/?t=modal-g6">G6</a></li>
+                  <li><a href="/?t=modal-gsus2">Gsus2</a></li>
+                  <li><a href="/?t=modal-gsus4">Gsus4</a></li>
+                  <li><a href="/?t=modal-e-modal">E Modal</a></li>
+                  <li><a href="/?t=modal-g-modal">G Modal</a></li>
+                  <li><a href="/?t=modal-b-modal">B Modal</a></li>
+                  <li><a href="/?t=modal-asharp-modal">A# Modal</a></li>
                </ul>
             </li>
          </ul>
