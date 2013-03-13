@@ -16,7 +16,7 @@
 					array('A', 'https://s3.amazonaws.com/tuning-website/notes/2-a.ogg', 'http://s3.amazonaws.com/tuning-website/notes/2-a.mp3'),
 					array('E', 'https://s3.amazonaws.com/tuning-website/notes/2-e.ogg', 'http://s3.amazonaws.com/tuning-website/notes/2-e.mp3')
 				);
-				$title = 'Open A Major';
+				$title = 'Open A Major Tuning';
 				$desc = '';
 				break;
                 
@@ -31,7 +31,7 @@
 					array('B', 'https://s3.amazonaws.com/tuning-website/notes/2-b.ogg', 'http://s3.amazonaws.com/tuning-website/notes/2-b.mp3'),
 					array('D#', 'https://s3.amazonaws.com/tuning-website/notes/2-dsharp.ogg', 'http://s3.amazonaws.com/tuning-website/notes/2-dsharp.mp3')
 				);
-				$title = 'Open B Major';
+				$title = 'Open B Major Tuning';
 				$desc = '';
 				break;
                 
@@ -46,7 +46,7 @@
 					array('C', 'https://s3.amazonaws.com/tuning-website/notes/2-c.ogg','http://s3.amazonaws.com/tuning-website/notes/2-c.mp3'),
 					array('E', 'https://s3.amazonaws.com/tuning-website/notes/2-e.ogg','http://s3.amazonaws.com/tuning-website/notes/2-e.mp3')				
 					);
-				$title = 'Open C Major';
+				$title = 'Open C Major Tuning';
 				$desc = '';
 				break;
                 
@@ -59,9 +59,9 @@
 					array('D', 'https://s3.amazonaws.com/tuning-website/notes/1-d.ogg', 'http://s3.amazonaws.com/tuning-website/notes/1-d.mp3'),
 					array('F#', 'https://s3.amazonaws.com/tuning-website/notes/1-fsharp.ogg', 'http://s3.amazonaws.com/tuning-website/notes/1-fsharp.mp3'),
 					array('A', 'https://s3.amazonaws.com/tuning-website/notes/2-a.ogg', 'http://s3.amazonaws.com/tuning-website/notes/2-a.mp3'),
-					array('D#', 'https://s3.amazonaws.com/tuning-website/notes/2-dsharp.ogg', 'http://s3.amazonaws.com/tuning-website/notes/2-dsharp.mp3')
+					array('D', 'https://s3.amazonaws.com/tuning-website/notes/2-d.ogg', 'http://s3.amazonaws.com/tuning-website/notes/2-d.mp3')
 				);
-				$title = 'Open D Major';
+				$title = 'Open D Major Tuning';
 				$desc = '';
 				break;
                 
@@ -76,7 +76,7 @@
 					array('B', 'https://s3.amazonaws.com/tuning-website/notes/2-b.ogg','http://s3.amazonaws.com/tuning-website/notes/2-b.mp3'),
 					array('E', 'https://s3.amazonaws.com/tuning-website/notes/2-e.ogg','http://s3.amazonaws.com/tuning-website/notes/2-e.mp3')
 				);
-				$title = 'Open E Major';
+				$title = 'Open E Major Tuning';
 				$desc = '';
 				break;
                 
@@ -91,7 +91,7 @@
 					array('A', 'https://s3.amazonaws.com/tuning-website/notes/2-a.ogg','http://s3.amazonaws.com/tuning-website/notes/2-a.mp3'),
 					array('F', 'https://s3.amazonaws.com/tuning-website/notes/2-f.ogg','http://s3.amazonaws.com/tuning-website/notes/2-f.mp3')				
 					);
-				$title = 'Open F Major';
+				$title = 'Open F Major Tuning';
 				$desc = '';
 				break;
                 
@@ -106,7 +106,7 @@
 					array('B', 'https://s3.amazonaws.com/tuning-website/notes/2-b.ogg','http://s3.amazonaws.com/tuning-website/notes/2-b.mp3'),
 					array('D', 'https://s3.amazonaws.com/tuning-website/notes/2-d.ogg','http://s3.amazonaws.com/tuning-website/notes/2-d.mp3')
 				);
-				$title = 'Open G Major';
+				$title = 'Open G Major Tuning';
 				$desc = '';
 				break;
                 
@@ -121,7 +121,7 @@
 					array('C', 'https://s3.amazonaws.com/tuning-website/notes/2-c.ogg', 'http://s3.amazonaws.com/tuning-website/notes/2-c.mp3'),
 					array('E', 'https://s3.amazonaws.com/tuning-website/notes/2-e.ogg', 'http://s3.amazonaws.com/tuning-website/notes/2-esharp.mp3')
 				);
-				$title = 'Open A Minor';
+				$title = 'Open A Minor Tuning';
 				$desc = '';
 				break;
                 
@@ -136,7 +136,7 @@
 					array('C', 'https://s3.amazonaws.com/tuning-website/notes/2-c.ogg', 'http://s3.amazonaws.com/tuning-website/notes/2-c.mp3'),
 					array('D#', 'https://s3.amazonaws.com/tuning-website/notes/2-dsharp.ogg', 'http://s3.amazonaws.com/tuning-website/notes/2-dsharp.mp3')
 				);
-				$title = 'Open C Minor';
+				$title = 'Open C Minor Tuning';
 				$desc = '';
 				break;
                 
@@ -151,7 +151,7 @@
 					array('A', 'https://s3.amazonaws.com/tuning-website/notes/2-a.ogg', 'http://s3.amazonaws.com/tuning-website/notes/2-a.mp3'),
 					array('D', 'https://s3.amazonaws.com/tuning-website/notes/2-d.ogg', 'http://s3.amazonaws.com/tuning-website/notes/2-d.mp3')
 				);
-				$title = 'Open D Minor';
+				$title = 'Open D Minor Tuning';
 				$desc = '';
 				break;
                 
@@ -166,7 +166,7 @@
 					array('B', 'https://s3.amazonaws.com/tuning-website/notes/2-b.ogg', 'http://s3.amazonaws.com/tuning-website/notes/2-b.mp3'),
 					array('E', 'https://s3.amazonaws.com/tuning-website/notes/2-e.ogg', 'http://s3.amazonaws.com/tuning-website/notes/2-e.mp3')
 				);
-				$title = 'Open E Minor';
+				$title = 'Open E Minor Tuning';
 				$desc = '';
 				break;
                 
@@ -181,7 +181,7 @@
 					array('C', 'https://s3.amazonaws.com/tuning-website/notes/2-c.ogg', 'http://s3.amazonaws.com/tuning-website/notes/2-c.mp3'),
 					array('F', 'https://s3.amazonaws.com/tuning-website/notes/2-f.ogg', 'http://s3.amazonaws.com/tuning-website/notes/2-f.mp3')
 				);
-				$title = 'Open F Minor';
+				$title = 'Open F Minor Tuning';
 				$desc = '';
 				break;
                 
@@ -196,7 +196,7 @@
 					array('A#', 'https://s3.amazonaws.com/tuning-website/notes/2-asharp.ogg', 'http://s3.amazonaws.com/tuning-website/notes/2-asharp.mp3'),
 					array('D', 'https://s3.amazonaws.com/tuning-website/notes/2-d.ogg', 'http://s3.amazonaws.com/tuning-website/notes/2-d.mp3')
 				);
-				$title = 'Open G Minor';
+				$title = 'Open G Minor Tuning';
 				$desc = '';
 				break;
                 
@@ -211,7 +211,7 @@
 					array('B', 'https://s3.amazonaws.com/tuning-website/notes/2-b.ogg', 'http://s3.amazonaws.com/tuning-website/notes/2-b.mp3'),
 					array('E', 'https://s3.amazonaws.com/tuning-website/notes/2-e.ogg', 'http://s3.amazonaws.com/tuning-website/notes/2-e.mp3')
 				);
-				$title = 'Drop D';
+				$title = 'Drop D Tuning';
 				$desc = '';
 				break;
                 
@@ -226,7 +226,7 @@
 					array('A#', 'https://s3.amazonaws.com/tuning-website/notes/2-asharp.ogg', 'http://s3.amazonaws.com/tuning-website/notes/2-asharp.mp3'),
 					array('D#', 'https://s3.amazonaws.com/tuning-website/notes/2-dsharp.ogg', 'http://s3.amazonaws.com/tuning-website/notes/2-dsharp.mp3')
 				);
-				$title = 'Drop C#/Db';
+				$title = 'Drop C#/Db Tuning';
 				$desc = '';
 				break;
                 
@@ -241,7 +241,7 @@
 					array('A', 'https://s3.amazonaws.com/tuning-website/notes/2-a.ogg', 'http://s3.amazonaws.com/tuning-website/notes/2-a.mp3'),
 					array('D', 'https://s3.amazonaws.com/tuning-website/notes/2-d.ogg', 'http://s3.amazonaws.com/tuning-website/notes/2-d.mp3')
 				);
-				$title = 'Drop C';
+				$title = 'Drop C Tuning';
 				$desc = '';
                 break;
                 
@@ -256,7 +256,7 @@
 					array('G#', 'https://s3.amazonaws.com/tuning-website/notes/1-gsharp.ogg', 'http://s3.amazonaws.com/tuning-website/notes/1-gsharp.mp3'),
 					array('C#', 'https://s3.amazonaws.com/tuning-website/notes/2-csharp.ogg', 'http://s3.amazonaws.com/tuning-website/notes/2-csharp.mp3')
 				);
-				$title = 'Drop B';
+				$title = 'Drop B Tuning';
 				$desc = '';
 				break;
                 
@@ -271,7 +271,7 @@
 					array('G', 'https://s3.amazonaws.com/tuning-website/notes/1-g.ogg', 'http://s3.amazonaws.com/tuning-website/notes/1-g.mp3'),
 					array('C', 'https://s3.amazonaws.com/tuning-website/notes/2-c.ogg', 'http://s3.amazonaws.com/tuning-website/notes/2-c.mp3')
 				);
-				$title = 'Drop A#/Bb';
+				$title = 'Drop A#/Bb Tuning';
 				$desc = '';
 				break;
                 
@@ -286,7 +286,7 @@
 					array('F#', 'https://s3.amazonaws.com/tuning-website/notes/1-fsharp.ogg', 'http://s3.amazonaws.com/tuning-website/notes/1-fsharp.mp3'),
 					array('B', 'https://s3.amazonaws.com/tuning-website/notes/2-b.ogg', 'http://s3.amazonaws.com/tuning-website/notes/2-b.mp3')
 				);
-				$title = 'Drop A';
+				$title = 'Drop A Tuning';
 				$desc = '';
 				break;
                 
@@ -301,7 +301,7 @@
 					array('E', 'https://s3.amazonaws.com/tuning-website/notes/2-e.ogg', 'http://s3.amazonaws.com/tuning-website/notes/2-e.mp3'),
 					array('A', 'https://s3.amazonaws.com/tuning-website/notes/3-a.ogg', 'http://s3.amazonaws.com/tuning-website/notes/3-a.mp3')
 				);
-				$title = 'Drop G';
+				$title = 'Drop G Tuning';
 				$desc = '';
 				break;
                 
@@ -316,7 +316,7 @@
 					array('D#', 'https://s3.amazonaws.com/tuning-website/notes/2-dsharp.ogg', 'http://s3.amazonaws.com/tuning-website/notes/2-dsharp.mp3'),
 					array('G#', 'https://s3.amazonaws.com/tuning-website/notes/2-gsharp.ogg', 'http://s3.amazonaws.com/tuning-website/notes/2-gsharp.mp3')
 				);
-				$title = 'Drop F#/Gb';
+				$title = 'Drop F#/Gb Tuning';
 				$desc = '';
 				break;
                 
@@ -331,7 +331,7 @@
 					array('D', 'https://s3.amazonaws.com/tuning-website/notes/2-d.ogg', 'http://s3.amazonaws.com/tuning-website/notes/2-d.mp3'),
 					array('G', 'https://s3.amazonaws.com/tuning-website/notes/2-g.ogg', 'http://s3.amazonaws.com/tuning-website/notes/2-g.mp3')
 				);
-				$title = 'Drop F';
+				$title = 'Drop F Tuning';
 				$desc = '';
 				break;
                 
@@ -347,7 +347,7 @@
 					array('C#', 'https://s3.amazonaws.com/tuning-website/notes/2-csharp.ogg', 'http://s3.amazonaws.com/tuning-website/notes/2-csharp.mp3'),
 					array('F#', 'https://s3.amazonaws.com/tuning-website/notes/2-fsharp.ogg', 'http://s3.amazonaws.com/tuning-website/notes/2-fsharp.mp3')
 				);
-				$title = 'Drop E';
+				$title = 'Drop E Tuning';
 				$desc = '';
 				break;
                 
@@ -362,7 +362,7 @@
 					array('C', 'https://s3.amazonaws.com/tuning-website/notes/2-c.ogg', 'http://s3.amazonaws.com/tuning-website/notes/2-c.mp3'),
 					array('F', 'https://s3.amazonaws.com/tuning-website/notes/2-f.ogg', 'http://s3.amazonaws.com/tuning-website/notes/2-f.mp3')
 				);
-				$title = 'Drop D#/Eb';
+				$title = 'Drop D#/Eb Tuning';
 				$desc = '';
 				break;
                 
@@ -377,7 +377,7 @@
 					array('B', 'https://s3.amazonaws.com/tuning-website/notes/2-b.ogg', 'http://s3.amazonaws.com/tuning-website/notes/2-b.mp3'),
 					array('E', 'https://s3.amazonaws.com/tuning-website/notes/2-e.ogg', 'http://s3.amazonaws.com/tuning-website/notes/2-e.mp3')
 				);
-				$title = 'Drop D1';
+				$title = 'Drop D1 Tuning';
 				$desc = '';
 				break;
                 
@@ -392,7 +392,7 @@
 					array('C', 'https://s3.amazonaws.com/tuning-website/notes/2-c.ogg', 'http://s3.amazonaws.com/tuning-website/notes/2-c.mp3'),
 					array('F', 'https://s3.amazonaws.com/tuning-website/notes/2-f.ogg', 'http://s3.amazonaws.com/tuning-website/notes/2-f.mp3')
 				);
-				$title = 'Raised F';
+				$title = 'Raised F Tuning';
 				$desc = '';
 				break;
                 
@@ -407,7 +407,7 @@
 					array('C#', 'https://s3.amazonaws.com/tuning-website/notes/2-csharp.ogg', 'http://s3.amazonaws.com/tuning-website/notes/2-csharp.mp3'),
 					array('F#', 'https://s3.amazonaws.com/tuning-website/notes/2-fsharp.ogg', 'http://s3.amazonaws.com/tuning-website/notes/2-fsharp.mp3')
 				);
-				$title = 'Raised F#/Gb';
+				$title = 'Raised F#/Gb Tuning';
 				$desc = '';
 				break;
                 
@@ -422,7 +422,7 @@
 					array('D', 'https://s3.amazonaws.com/tuning-website/notes/2-d.ogg', 'http://s3.amazonaws.com/tuning-website/notes/2-d.mp3'),
 					array('G', 'https://s3.amazonaws.com/tuning-website/notes/2-g.ogg', 'http://s3.amazonaws.com/tuning-website/notes/2-g.mp3')
 				);
-				$title = 'Raised G (Terz)';
+				$title = 'Raised G (Terz) Tuning';
 				$desc = '';
 				break;
                 
@@ -437,7 +437,7 @@
 					array('D#', 'https://s3.amazonaws.com/tuning-website/notes/2-dsharp.ogg', 'http://s3.amazonaws.com/tuning-website/notes/2-dsharp.mp3'),
 					array('G#', 'https://s3.amazonaws.com/tuning-website/notes/2-gsharp.ogg', 'http://s3.amazonaws.com/tuning-website/notes/2-gsharp.mp3')
 				);
-				$title = 'Raised G#/Ab';
+				$title = 'Raised G#/Ab Tuning';
 				$desc = '';
 				break;
                 
@@ -452,7 +452,7 @@
 					array('E', 'https://s3.amazonaws.com/tuning-website/notes/1-e.ogg', 'http://s3.amazonaws.com/tuning-website/notes/1-e.mp3'),
 					array('A', 'https://s3.amazonaws.com/tuning-website/notes/2-a.ogg', 'http://s3.amazonaws.com/tuning-website/notes/2-a.mp3')
 				);
-				$title = 'Raised A';
+				$title = 'Raised A Tuning';
 				$desc = '';
 				break; 
                 
@@ -467,9 +467,174 @@
 					array('F', 'https://s3.amazonaws.com/tuning-website/notes/1-f.ogg', 'http://s3.amazonaws.com/tuning-website/notes/1-f.mp3'),
 					array('A#', 'https://s3.amazonaws.com/tuning-website/notes/2-asharp.ogg', 'http://s3.amazonaws.com/tuning-website/notes/2-asharp.mp3')
 				);
-				$title = 'Raised A#/Bb';
+				$title = 'Raised A#/Bb Tuning';
+				$desc = '';
+				break;
+                
+                
+                
+            case 'low-eb':
+                $notes = array(
+                    array('D#', 'https://s3.amazonaws.com/tuning-website/notes/0-dsharp.ogg', 'http://s3.amazonaws.com/tuning-website/notes/0-dsharp.mp3'),
+    				array('G#', 'https://s3.amazonaws.com/tuning-website/notes/0-gsharp.ogg', 'http://s3.amazonaws.com/tuning-website/notes/0-gsharp.mp3'),
+					array('C#', 'https://s3.amazonaws.com/tuning-website/notes/1-csharp.ogg', 'http://s3.amazonaws.com/tuning-website/notes/1-csharp.mp3'),
+					array('F#', 'https://s3.amazonaws.com/tuning-website/notes/1-fsharp.ogg', 'http://s3.amazonaws.com/tuning-website/notes/1-fsharp.mp3'),
+					array('A#', 'https://s3.amazonaws.com/tuning-website/notes/2-asharp.ogg', 'http://s3.amazonaws.com/tuning-website/notes/2-asharp.mp3'),
+					array('D#', 'https://s3.amazonaws.com/tuning-website/notes/2-dsharp.ogg', 'http://s3.amazonaws.com/tuning-website/notes/2-dsharp.mp3')
+				);
+				$title = 'Lowered D#/Eb Tuning';
+				$desc = '';
+				break; 
+                
+                
+                
+            case 'low-d':
+                $notes = array(
+                    array('D', 'https://s3.amazonaws.com/tuning-website/notes/0-d.ogg', 'http://s3.amazonaws.com/tuning-website/notes/0-d.mp3'),
+        			array('G', 'https://s3.amazonaws.com/tuning-website/notes/0-g.ogg', 'http://s3.amazonaws.com/tuning-website/notes/0-g.mp3'),
+					array('C', 'https://s3.amazonaws.com/tuning-website/notes/1-c.ogg', 'http://s3.amazonaws.com/tuning-website/notes/1-c.mp3'),
+					array('F', 'https://s3.amazonaws.com/tuning-website/notes/1-f.ogg', 'http://s3.amazonaws.com/tuning-website/notes/1-f.mp3'),
+					array('A', 'https://s3.amazonaws.com/tuning-website/notes/2-a.ogg', 'http://s3.amazonaws.com/tuning-website/notes/2-a.mp3'),
+					array('D', 'https://s3.amazonaws.com/tuning-website/notes/2-d.ogg', 'http://s3.amazonaws.com/tuning-website/notes/2-d.mp3')
+				);
+				$title = 'Lowered D Tuning';
 				$desc = '';
 				break;  
+                
+                
+                
+            case 'low-db':
+                $notes = array(
+                    array('C#', 'https://s3.amazonaws.com/tuning-website/notes/0-csharp.ogg', 'http://s3.amazonaws.com/tuning-website/notes/0-csharp.mp3'),
+            		array('F#', 'https://s3.amazonaws.com/tuning-website/notes/0-fsharp.ogg', 'http://s3.amazonaws.com/tuning-website/notes/0-fsharp.mp3'),
+					array('B', 'https://s3.amazonaws.com/tuning-website/notes/1-b.ogg', 'http://s3.amazonaws.com/tuning-website/notes/1-b.mp3'),
+					array('E', 'https://s3.amazonaws.com/tuning-website/notes/1-e.ogg', 'http://s3.amazonaws.com/tuning-website/notes/1-e.mp3'),
+					array('G#', 'https://s3.amazonaws.com/tuning-website/notes/1-gsharp.ogg', 'http://s3.amazonaws.com/tuning-website/notes/1-gsharp.mp3'),
+					array('C#', 'https://s3.amazonaws.com/tuning-website/notes/2-csharp.ogg', 'http://s3.amazonaws.com/tuning-website/notes/2-csharp.mp3')
+				);
+				$title = 'Lowered C#/Db Tuning';
+				$desc = '';
+				break; 
+                
+                
+                
+            case 'low-c':
+                $notes = array(
+                    array('C', 'https://s3.amazonaws.com/tuning-website/notes/0-c.ogg', 'http://s3.amazonaws.com/tuning-website/notes/0-c.mp3'),
+                	array('F', 'https://s3.amazonaws.com/tuning-website/notes/0-f.ogg', 'http://s3.amazonaws.com/tuning-website/notes/0-f.mp3'),
+					array('A#', 'https://s3.amazonaws.com/tuning-website/notes/1-asharp.ogg', 'http://s3.amazonaws.com/tuning-website/notes/1-asharp.mp3'),
+					array('D#', 'https://s3.amazonaws.com/tuning-website/notes/1-dsharp.ogg', 'http://s3.amazonaws.com/tuning-website/notes/1-dsharp.mp3'),
+					array('G', 'https://s3.amazonaws.com/tuning-website/notes/1-g.ogg', 'http://s3.amazonaws.com/tuning-website/notes/1-g.mp3'),
+					array('C', 'https://s3.amazonaws.com/tuning-website/notes/2-c.ogg', 'http://s3.amazonaws.com/tuning-website/notes/2-c.mp3')
+				);
+				$title = 'Lowered C Tuning';
+				$desc = '';
+				break;
+                
+                
+                
+            case 'low-b':
+                $notes = array(
+                    array('B', 'https://s3.amazonaws.com/tuning-website/notes/0-b.ogg', 'http://s3.amazonaws.com/tuning-website/notes/0-b.mp3'),
+                    array('E', 'https://s3.amazonaws.com/tuning-website/notes/0-e.ogg', 'http://s3.amazonaws.com/tuning-website/notes/0-e.mp3'),
+					array('A', 'https://s3.amazonaws.com/tuning-website/notes/1-a.ogg', 'http://s3.amazonaws.com/tuning-website/notes/1-a.mp3'),
+					array('D', 'https://s3.amazonaws.com/tuning-website/notes/1-d.ogg', 'http://s3.amazonaws.com/tuning-website/notes/1-d.mp3'),
+					array('F#', 'https://s3.amazonaws.com/tuning-website/notes/1-fsharp.ogg', 'http://s3.amazonaws.com/tuning-website/notes/1-fsharp.mp3'),
+					array('B', 'https://s3.amazonaws.com/tuning-website/notes/2-b.ogg', 'http://s3.amazonaws.com/tuning-website/notes/2-b.mp3')
+				);
+				$title = 'Lowered B Tuning';
+				$desc = '';
+				break;
+                
+                
+                
+            case 'low-bb':
+                $notes = array(
+                    array('A#', 'https://s3.amazonaws.com/tuning-website/notes/0-asharp.ogg', 'http://s3.amazonaws.com/tuning-website/notes/0-asharp.mp3'),
+                    array('D#', 'https://s3.amazonaws.com/tuning-website/notes/0-dsharp.ogg', 'http://s3.amazonaws.com/tuning-website/notes/0-dsharp.mp3'),
+    				array('G#', 'https://s3.amazonaws.com/tuning-website/notes/0-gsharp.ogg', 'http://s3.amazonaws.com/tuning-website/notes/0-gsharp.mp3'),
+					array('C#', 'https://s3.amazonaws.com/tuning-website/notes/1-csharp.ogg', 'http://s3.amazonaws.com/tuning-website/notes/1-csharp.mp3'),
+					array('F', 'https://s3.amazonaws.com/tuning-website/notes/1-f.ogg', 'http://s3.amazonaws.com/tuning-website/notes/1-f.mp3'),
+					array('A#', 'https://s3.amazonaws.com/tuning-website/notes/2-asharp.ogg', 'http://s3.amazonaws.com/tuning-website/notes/2-asharp.mp3')
+				);
+				$title = 'Lowered A#/Bb Tuning';
+				$desc = '';
+				break;
+                
+                
+                
+            case 'low-a':
+                $notes = array(
+                    array('A', 'https://s3.amazonaws.com/tuning-website/notes/0-a.ogg', 'http://s3.amazonaws.com/tuning-website/notes/0-a.mp3'),
+                    array('D', 'https://s3.amazonaws.com/tuning-website/notes/0-d.ogg', 'http://s3.amazonaws.com/tuning-website/notes/0-d.mp3'),
+        			array('G', 'https://s3.amazonaws.com/tuning-website/notes/0-g.ogg', 'http://s3.amazonaws.com/tuning-website/notes/0-g.mp3'),
+					array('C', 'https://s3.amazonaws.com/tuning-website/notes/1-c.ogg', 'http://s3.amazonaws.com/tuning-website/notes/1-c.mp3'),
+					array('E', 'https://s3.amazonaws.com/tuning-website/notes/1-e.ogg', 'http://s3.amazonaws.com/tuning-website/notes/1-e.mp3'),
+					array('A', 'https://s3.amazonaws.com/tuning-website/notes/2-a.ogg', 'http://s3.amazonaws.com/tuning-website/notes/2-a.mp3')
+				);
+				$title = 'Lowered A Tuning';
+				$desc = '';
+				break;
+                
+                
+                
+            case 'low-ab':
+                $notes = array(
+                    array('G#', 'https://s3.amazonaws.com/tuning-website/notes/0-gsharp.ogg', 'http://s3.amazonaws.com/tuning-website/notes/0-gsharp.mp3'),
+                    array('C#', 'https://s3.amazonaws.com/tuning-website/notes/1-csharp.ogg', 'http://s3.amazonaws.com/tuning-website/notes/1-csharp.mp3'),
+            		array('F#', 'https://s3.amazonaws.com/tuning-website/notes/1-fsharp.ogg', 'http://s3.amazonaws.com/tuning-website/notes/1-fsharp.mp3'),
+					array('B', 'https://s3.amazonaws.com/tuning-website/notes/2-b.ogg', 'http://s3.amazonaws.com/tuning-website/notes/2-b.mp3'),
+					array('D#', 'https://s3.amazonaws.com/tuning-website/notes/2-dsharp.ogg', 'http://s3.amazonaws.com/tuning-website/notes/2-dsharp.mp3'),
+					array('G#', 'https://s3.amazonaws.com/tuning-website/notes/2-gsharp.ogg', 'http://s3.amazonaws.com/tuning-website/notes/2-gsharp.mp3')
+				);
+				$title = 'Lowered G#/Ab Tuning';
+				$desc = '';
+				break; 
+                
+                
+                
+            case 'low-g':
+                $notes = array(
+                    array('G', 'https://s3.amazonaws.com/tuning-website/notes/0-g.ogg', 'http://s3.amazonaws.com/tuning-website/notes/0-g.mp3'),
+                    array('C', 'https://s3.amazonaws.com/tuning-website/notes/1-c.ogg', 'http://s3.amazonaws.com/tuning-website/notes/1-c.mp3'),
+                	array('F', 'https://s3.amazonaws.com/tuning-website/notes/1-f.ogg', 'http://s3.amazonaws.com/tuning-website/notes/1-f.mp3'),
+					array('A#', 'https://s3.amazonaws.com/tuning-website/notes/2-asharp.ogg', 'http://s3.amazonaws.com/tuning-website/notes/2-asharp.mp3'),
+					array('D', 'https://s3.amazonaws.com/tuning-website/notes/2-d.ogg', 'http://s3.amazonaws.com/tuning-website/notes/2-d.mp3'),
+					array('G', 'https://s3.amazonaws.com/tuning-website/notes/2-g.ogg', 'http://s3.amazonaws.com/tuning-website/notes/2-g.mp3')
+				);
+				$title = 'Lowered G Tuning';
+				$desc = '';
+				break;
+                
+                
+                
+            case 'low-gb':
+                $notes = array(
+                    array('F#', 'https://s3.amazonaws.com/tuning-website/notes/0-fsharp.ogg', 'http://s3.amazonaws.com/tuning-website/notes/0-fsharp.mp3'),
+                    array('B', 'https://s3.amazonaws.com/tuning-website/notes/1-b.ogg', 'http://s3.amazonaws.com/tuning-website/notes/1-b.mp3'),
+                    array('E', 'https://s3.amazonaws.com/tuning-website/notes/1-e.ogg', 'http://s3.amazonaws.com/tuning-website/notes/1-e.mp3'),
+					array('A', 'https://s3.amazonaws.com/tuning-website/notes/2-a.ogg', 'http://s3.amazonaws.com/tuning-website/notes/2-a.mp3'),
+					array('C#', 'https://s3.amazonaws.com/tuning-website/notes/2-csharp.ogg', 'http://s3.amazonaws.com/tuning-website/notes/2-csharp.mp3'),
+					array('F#', 'https://s3.amazonaws.com/tuning-website/notes/2-fsharp.ogg', 'http://s3.amazonaws.com/tuning-website/notes/2-fsharp.mp3')
+				);
+				$title = 'Lowered F#/Gb Tuning';
+				$desc = '';
+				break;
+                
+                
+                
+            case 'low-f':
+                $notes = array(
+                    array('F', 'https://s3.amazonaws.com/tuning-website/notes/0-f.ogg', 'http://s3.amazonaws.com/tuning-website/notes/0-f.mp3'),
+                    array('A#', 'https://s3.amazonaws.com/tuning-website/notes/1-asharp.ogg', 'http://s3.amazonaws.com/tuning-website/notes/1-asharp.mp3'),
+                    array('D#', 'https://s3.amazonaws.com/tuning-website/notes/1-dsharp.ogg', 'http://s3.amazonaws.com/tuning-website/notes/1-dsharp.mp3'),
+					array('G#', 'https://s3.amazonaws.com/tuning-website/notes/1-gsharp.ogg', 'http://s3.amazonaws.com/tuning-website/notes/1-gsharp.mp3'),
+					array('C', 'https://s3.amazonaws.com/tuning-website/notes/2-c.ogg', 'http://s3.amazonaws.com/tuning-website/notes/2-c.mp3'),
+					array('F', 'https://s3.amazonaws.com/tuning-website/notes/2-f.ogg', 'http://s3.amazonaws.com/tuning-website/notes/2-f.mp3')
+				);
+				$title = 'Lowered F Tuning';
+				$desc = '';
+				break;    
 			default:
 				$notes = array(
 					array('E', 'https://s3.amazonaws.com/tuning-website/notes/0-e.ogg', 'http://s3.amazonaws.com/tuning-website/notes/0-e.mp3'),

@@ -50,20 +50,24 @@
             <li class="dropdown">
                <a href="#" data-toggle="dropdown" class="dropdown-toggle lblue">Lowered <b class="caret"></b></a>
                <ul class="dropdown-menu">
-                  <li><a href="lowered/dsharp.html">D#/Eb</a></li>
-                  <li><a href="lowered/d.html">D</a></li>
-                  <li><a href="lowered/csharp.html">C#/Db</a></li>
-                  <li><a href="lowered/c.html">C</a></li>
-                  <li><a href="lowered/b.html">B</a></li>
-                  <li><a href="lowered/asharp.html">A#/Bb</a></li>
-                  <li><a href="lowered/a.html">A</a></li>
-                  <li><a href="lowered/gsharp.html">G#/Ab</a></li>
-                  <li><a href="lowered/g.html">G</a></li>
-                  <li><a href="lowered/fsharp.html">F#/Gb</a></li>
-                  <li><a href="lowered/f.html">F</a></li>
-                  <li><a href="lowered/octave.html">Octave</a></li>
+                  <li><a href="/?t=low-eb">D#/Eb</a></li>
+                  <li><a href="/?t=low-d">D</a></li>
+                  <li><a href="/?t=low-db">C#/Db</a></li>
+                  <li><a href="/?t=low-c">C</a></li>
+                  <li><a href="/?t=low-b">B</a></li>
+                  <li><a href="/?t=low-bb">A#/Bb</a></li>
+                  <li><a href="/?t=low-a">A</a></li>
+                  <li><a href="/?t=low-ab">G#/Ab</a></li>
+                  <li><a href="/?t=low-g">G</a></li>
+                  <li><a href="/?t=low-gb">F#/Gb</a></li>
+                  <li><a href="/?t=low-f">F</a></li> 
                </ul>
             </li>
+            
+            
+            
+            
+            <!-- COMMENTED OUT DOUBLE DROPPED FOR NOW 
             <li class="dropdown">
                <a href="#" data-toggle="dropdown" class="dropdown-toggle lblue">Double-Dropped <b class="caret"></b></a>
                <ul class="dropdown-menu">
@@ -82,6 +86,9 @@
                   <li><a href="dd/d1.html">D1</a></li>
                </ul>
             </li>
+            
+            -->
+            
             <li class="dropdown">
                <a href="#" data-toggle="dropdown" class="dropdown-toggle lblue">Modal <b class="caret"></b></a>
                <ul class="dropdown-menu">
