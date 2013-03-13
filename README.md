@@ -16,5 +16,5 @@ Credits
 ------------
 
 This application is being maintained by Bennett S.
-Thanks to [Wylie Hobbs](http://www.wyliehobbs.com/) for guidance
+Thanks to [Wylie Hobbs](http://www.wyliehobbs.com/) for guidance.  
 Thanks to [Twitter Bootstrap](http://twitter.github.com/bootstrap/) for an awesome framework.
