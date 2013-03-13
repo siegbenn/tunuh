@@ -67,6 +67,7 @@
             
             
             
+
             <!-- COMMENTED OUT DOUBLE DROPPED FOR NOW 
             <li class="dropdown">
                <a href="#" data-toggle="dropdown" class="dropdown-toggle lblue">Double-Dropped <b class="caret"></b></a>
@@ -112,4 +113,5 @@
                   <li><a href="/?t=modal-asharp-modal">A# Modal</a></li>
                </ul>
             </li>
+            <li class="active donate"><a href="https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=SD93M9ZAJUS9L" >Donate</a></li>
          </ul>

@@ -8,13 +8,16 @@
 <link rel="stylesheet" href="https://s3.amazonaws.com/tuning-website/css/normalize.css" />
 <link rel="stylesheet" href="https://s3.amazonaws.com/tuning-website/css/main.css" />
 <link rel="stylesheet" href="https://s3.amazonaws.com/tuning-website/css/app.css" type="text/css" />
+
+<!-- MOBILE
 <script type="text/javascript">
   <!--
   if (screen.width <= 699) {
   document.location = "mobile.html";
   }
   //-->
-</script>
+  
+<!--</script> -->
 <script src="http://ajax.googleapis.com/ajax/libs/jquery/1.7/jquery.min.js"></script>
 
 <script type="text/javascript">

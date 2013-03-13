@@ -1,3 +1,4 @@
 - Add 0-asharp.ogg / 0-asharp.mp3.
 - Add G#/Ab.
 - Add Double-dropped tunings.
+- Add mobile version.
