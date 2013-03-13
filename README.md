@@ -8,9 +8,8 @@ Instructions
 -------
 
 To use the application, simply select the desired tuning out of the navagation
-menu.  
-Then, click note buttons to play the tone.  
-The tone will play on a loop until either another note or the stop button is clicked. 
+menu. Then, click note buttons to play the tone. The tone will play on a loop
+until either another note or the stop button is clicked. 
 
 
 Credits
